@@ -1,2 +1,1 @@
-def randint(a = 0, b = -1):
-	return 42
+from rand import randint
